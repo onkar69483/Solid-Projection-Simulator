@@ -1,5 +1,10 @@
 # Solid Projection Simulator
 
+![GitHub repo size](https://img.shields.io/github/repo-size/onkar69483/Solid-Projection-Simulator)
+![GitHub stars](https://img.shields.io/github/stars/onkar69483/Solid-Projection-Simulator?style=social)
+![GitHub forks](https://img.shields.io/github/forks/onkar69483/Solid-Projection-Simulator?style=social)
+
+
 Welcome to the Solid Projection Simulator repository! This project focuses on computerizing and simulating the process of projecting solids using the Python Turtle library. It specifically demonstrates the projection of two types of solids: the hexagonal pyramid and the hexagonal prism.
 
 ## Table of Contents
